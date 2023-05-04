@@ -8,8 +8,8 @@ I wrote this code in [Visual Studio Code](https://code.visualstudio.com/download
 
 Now, open the `MultilevelFeedbackQueueSchedulingAlgorithm.java` file in `Visual Studio Code` and click on the `Run` button located in the upper right corner.
 
-![Screenshot](https://user-images.githubusercontent.com/52858312/236210732-88dd0b5a-9fa2-464a-ac81-d7b9e48e13e6.png)
+![Screenshot](https://user-images.githubusercontent.com/52858312/236215595-712384c8-a088-4f1a-b532-fe7fe54671a1.png)
 
 Then, insert the desired values, and the output will appear below.
 
-![Screenshot](https://user-images.githubusercontent.com/52858312/236211018-e1f6b18d-28c4-485b-9f17-0556cf935133.png)
+![Screenshot](https://user-images.githubusercontent.com/52858312/236215666-3d934f54-3d29-4173-85a6-71a0ee2491b8.png)
