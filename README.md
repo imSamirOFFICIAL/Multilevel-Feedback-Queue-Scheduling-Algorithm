@@ -4,7 +4,7 @@ This is a Java code that implements the Multilevel Feedback Queue Scheduling Alg
 
 # How to run this code?
 
-I wrote this code in [Visual Studio Code](https://code.visualstudio.com/download) and ran it successfully. Therefore, I cannot guarantee that this code will run correctly in any other IDE. However, before running this code in Visual Studio Code, you must ensure that your operating system has the latest version of the [JDK Development Kit](https://www.oracle.com/java/technologies/downloads) installed.
+I wrote this code in [Visual Studio Code](https://code.visualstudio.com/download) and ran it successfully. Therefore, I cannot guarantee that this code will run correctly in any other IDE. However, before running this code in Visual Studio Code, you must ensure that the `Extension Pack for Java` is installed in Visual Studio Code and your operating system has the latest version of the [JDK Development Kit](https://www.oracle.com/java/technologies/downloads) installed.
 
 Now, open the `MultilevelFeedbackQueueSchedulingAlgorithm.java` file in `Visual Studio Code` and click on the `Run` button located in the upper right corner.
 
